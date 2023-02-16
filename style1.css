@@ -1,0 +1,14 @@
+.full{
+    background-color: rgb(196, 206, 255);
+}
+.pic{
+    float:center;
+    background-color: rgb(196, 225, 224);
+
+
+}
+.dis{
+    float:right;
+    padding-right: 200px;
+    background-color: rgb(196, 225, 224);
+}
